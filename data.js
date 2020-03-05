@@ -100,7 +100,7 @@ var data = [
     ]
   },
   {
-    "category": "Feeling Lucky",
+    "category": "Feeling Lucky Again",
     "questions": [
       {
         "points": 100,

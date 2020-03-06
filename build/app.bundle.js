@@ -22592,7 +22592,7 @@
 	var sounds = {};
 	sounds.flip = new Audio("assets/audio/card-flip.mp3");
 	sounds.flipBack = new Audio("assets/audio/card-flip-back.mp3");
-	sounds.countdown = new Audio("assets/audio/countdown.wav");
+	sounds.countdown = new Audio("assets/audio/countdown.mp3");
 	
 	var play = exports.play = function play(sound) {
 	    if (sounds[sound]) {

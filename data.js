@@ -55,7 +55,7 @@ var data = [
             {
                 "points": 500,
                 "question": "What never asks a question but gets answered all the time ?",
-                "answer": "79"
+                "answer": "google search engine"
             }
         ]
     },
@@ -97,7 +97,7 @@ var data = [
             {
                 "points": 100,
                 "question": "Who is current CEO of Alphabet ?",
-                "answer": "Larry Page"
+                "answer": "Sundar Pichai"
             },
             {
                 "points": 200,
@@ -112,7 +112,7 @@ var data = [
             {
                 "points": 400,
                 "question": "At what price did Apple stock close today? Full points for +-$5",
-                "answer": "226"
+                "answer": "~289 +/- 5"
             },
             {
                 "points": 500,
@@ -159,7 +159,7 @@ var data = [
             {
                 "points": 100,
                 "question": "Who is the current Finance Minister of India ?",
-                "answer": "Arun Jaitley"
+                "answer": "Nirmala Sitharaman"
             },
             {
                 "points": 200,
@@ -189,8 +189,8 @@ var data = [
         "questions": [
             {
                 "points": 100,
-                "question": "Which team lost in the Superbowl in 2017 ?",
-                "answer": "Atlanta Falcons"
+                "question": "Which team lost in the Super Bowl in 2020 ?",
+                "answer": "San Francisco 49ers"
             },
             {
                 "points": 200,
@@ -200,7 +200,7 @@ var data = [
             {
                 "points": 300,
                 "question": "Which team has won the most superbowls? How many ?",
-                "answer": "Pittsburgh Steelers has won 6 superbowls so far"
+                "answer": "Pittsburgh Steelers and New England Patriots"
             },
             {
                 "points": 400,

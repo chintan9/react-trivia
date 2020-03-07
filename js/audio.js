@@ -1,17 +1,17 @@
 let sounds = {};
 sounds.flip = new Audio("assets/audio/card-flip.mp3");
 sounds.flipBack = new Audio("assets/audio/card-flip-back.mp3");
-sounds.countdown = new Audio("assets/audio/countdown.wav");
+sounds.countdown = new Audio("assets/audio/countdown.mp3");
 
 export let play = sound => {
-    if (sounds[sound]) {
-        sounds[sound].currentTime = 0;
-        sounds[sound].play();
-    }
+  if (sounds[sound]) {
+    sounds[sound].currentTime = 0;
+    sounds[sound].play();
+  }
 };
 
 export let stop = sound => {
-    if (sounds[sound]) {
-        sounds[sound].pause();
-    }
+  if (sounds[sound]) {
+    sounds[sound].pause();
+  }
 };

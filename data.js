@@ -10,7 +10,8 @@ var data = [
             {
                 points: 200,
                 question:
-                    "Who was the player of tournament in 2015 cricket world cup ?",
+                    
+                "Who was the player of tournament in 2015 cricket world cup ?",
                 answer: "Mitchell Starc for 22 wickets"
             },
             {

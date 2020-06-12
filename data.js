@@ -1,6 +1,6 @@
 var data = [
     {
-        category: "Cricket",
+        category: "CRICKET",
         questions: [
             {
                 points: 100,
@@ -36,35 +36,35 @@ var data = [
         ]
     },
     {
-        category: "Logic ?",
+        category: "INDIA",
         questions: [
             {
                 points: 100,
                 question:
-                    "Everyone in the world needs it, but they usually give it without taking it. What is it ?",
-                answer: "Advice"
+                    "Number of State and Union Territories in India",
+                answer: "29, 7"
             },
             {
                 points: 200,
                 question:
-                    "I am an odd number. Take away one letter and I become even. What number am I ?",
-                answer: "Seven (take away 's' and it becomes even)"
+                    "The current President of India is ______ .",
+                answer: "Ram Nath Kovind"
             },
             {
                 points: 300,
-                question: "What gets sharper the more you use it ?",
-                answer: "Your brain"
+                question: "Which Indian city is nicknamed the 'City of Pearls'?",
+                answer: "Hyderabad"
             },
             {
                 points: 400,
                 question:
-                    "What belongs to you but gets used by everyone else more than you ?",
-                answer: "Your name"
+                    "The Palk Straits separates India and which country?",
+                answer: "Sri Lanka"
             },
             {
                 points: 500,
-                question: "What never asks a question but gets answered all the time ?",
-                answer: "google search engine"
+                question: "List of Countries Where India Shares Its Border",
+                answer: "8"
             }
         ]
     },

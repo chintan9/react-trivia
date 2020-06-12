@@ -4,34 +4,34 @@ var data = [
         questions: [
             {
                 points: 100,
-                question: "Which year India won ODI and T20 world cups ?",
-                answer: "ODI - 1983 and 2011 <br/> T20 - 2007"
+                question: "For a cricketer, the initials “LBW” stands for …",
+                answer: "Leg before wicket"
             },
             {
                 points: 200,
                 question:
                     
-                "Who was the player of tournament in 2015 cricket world cup ?",
-                answer: "Mitchell Starc for 22 wickets"
+                "The biennial international test cricket series between Australia and England is called",
+                answer: "The ashes"
             },
             {
                 points: 300,
                 question:
-                    "Who is the leading wicket taker in test cricker? How many wickets he took?",
-                answer: "Muttiah Muralitharan, 800 wickets"
+                    "Which national team is nicknamed “The Proteas” or “The Springboks”?",
+                answer: "South Africa"
             },
             {
                 points: 400,
                 question:
-                    "Name all the cricketers who scored double centuary in ODI (Name 4 out of 5)",
+                    "Who was the first player to reach 10,000 runs in Test cricket?",
                 answer:
-                    "Sachin Tendulkar, Virender Sehwag, Rohit Sharma, Chris Gayle and Martin Guptill"
+                    "Sunil Gavaskar"
             },
             {
                 points: 500,
                 question:
-                    "How many matches did it take for Sachin to score his first ODI century ?",
-                answer: "79"
+                    "The highest team total record in test cricket is …",
+                answer: "952"
             }
         ]
     },

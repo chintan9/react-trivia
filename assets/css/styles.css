@@ -97,7 +97,7 @@ p {
 .card > .front {
     -webkit-transform: rotateY(0deg) !important;
     transform: rotateY(0deg) !important;
-    background-color: #61DAFB;
+    background-color: #ec7638;
     color: #FFFFFF;
     font-size: 54px;
     z-index: 2;

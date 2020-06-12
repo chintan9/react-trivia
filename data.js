@@ -68,4 +68,105 @@ var data = [
             }
         ]
     },
+    {
+        category: "US",
+        questions: [
+            {
+                points: 100,
+                question:
+                    "The Hershey Company, commonly known as Hershey, was founded in which U.S. state?",
+                answer: "Pennsylvania"
+            },
+            {
+                points: 200,
+                question:
+                    "Which city served as the capital of the United States from 1785 until 1790?",
+                answer: "New York"
+            },
+            {
+                points: 300,
+                question: "How many US states border the Pacific Ocean? Give names also",
+                answer: "Five states: California, Oregon, Washington, Alaska and Hawaii"
+            },
+            {
+                points: 400,
+                question:
+                    "From which major U.S. city can a person drive south into Canada?",
+                answer: "Detroit"
+            },
+            {
+                points: 500,
+                question: "What is the only U.S. state without a rectangular flag?",
+                answer: "Ohio"
+            }
+        ]
+    },
+    {
+        category: "US",
+        questions: [
+            {
+                points: 100,
+                question:
+                    "What is the tallest building in the world?",
+                answer: "The Burj Khalifa"
+            },
+            {
+                points: 200,
+                question:
+                    "The lowest natural temperature ever directly recorded at ground level was measured on what Continent?",
+                answer: "Antarctica"
+            },
+            {
+                points: 300,
+                question: "What country covers almost continent?",
+                answer: "Australia"
+            },
+            {
+                points: 400,
+                question:
+                    "Kuala lumpur is the capital of ______ .",
+                answer: "Malaysia"
+            },
+            {
+                points: 500,
+                question: "What's the oldest continuously inhabited city the world?",
+                answer: "Damascus, Syria"
+            }
+        ]
+    },
+    {
+        category: "RIDDLE",
+        questions: [
+            {
+                points: 100,
+                question:
+                    "James's mom has four children. Their names are April, May, June, and ______?",
+                answer: "James"
+            },
+            {
+                points: 200,
+                question:
+                    "What has 13 hearts, but no other organs?",
+                answer: "A deck of cards"
+            },
+            {
+                points: 300,
+                question: "What's the only U.S. state whose name ends with three consecutive vowels?",
+                answer: "Hawaii"
+            },
+            {
+                points: 400,
+                question:
+                    "If you take away one letter, you're left with twelve. What is the word?",
+                answer: "Dozens"
+            },
+            {
+                points: 500,
+                question: "Name the number that is three more than one-fifth of one-tenth of one-half of 5,000.",
+                answer: "53"
+            }
+        ]
+    },
+    
+    
 ]

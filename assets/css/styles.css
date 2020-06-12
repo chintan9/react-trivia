@@ -157,7 +157,6 @@ code {
     display: inline-block;
     font-size: 38px;
     overflow: auto;
-    text-align: left;
     font-family: 'Source Code Pro', monospace;
     text-align: left;
 }

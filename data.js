@@ -117,14 +117,14 @@ var data = [
             },
             {
                 points: 300,
-                question: "What country covers almost continent?",
+                question: "Longest border in the world?",
                 answer: "Australia"
             },
             {
                 points: 400,
                 question:
-                    "Kuala lumpur is the capital of ______ .",
-                answer: "Malaysia"
+                    "Capital of south korea?",
+                answer: "Seoul"
             },
             {
                 points: 500,
@@ -172,14 +172,14 @@ var data = [
             {
                 points: 100,
                 question:
-                    "Who was the founder and chairman of Amazon.com?",
+                    "Who was the founder and chairman of Blue origin?",
                 answer: "Jeffrey P. Bezos"
             },
             {
                 points: 200,
                 question:
-                    "How old was Bill Gates when he became a billionaire??",
-                answer: "31"
+                    "Advanced Micro Devices Tag line",
+                answer: "The Future Is Fusion"
             },
             {
                 points: 300,
@@ -194,8 +194,8 @@ var data = [
             },
             {
                 points: 500,
-                question: "Who invented the lift/elevator in 1853?",
-                answer: "Otis"
+                question: "Who invented first car?",
+                answer: "Karl Benz"
             }
         ]
     },

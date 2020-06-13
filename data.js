@@ -10,22 +10,22 @@ var data = [
             {
                 points: 200,
                 question:
-                    
-                "The biennial international test cricket series between Australia and England is called",
+
+                    "The biennial international test cricket series between Australia and England is called",
                 answer: "The ashes"
             },
             {
                 points: 300,
                 question:
-                    "Which national team is nicknamed “The Proteas” or “The Springboks”?",
-                answer: "South Africa"
+                    "Who was the first player to reach 10,000 runs in Test cricket?",
+                answer:
+                    "Sunil Gavaskar"
             },
             {
                 points: 400,
                 question:
-                    "Who was the first player to reach 10,000 runs in Test cricket?",
-                answer:
-                    "Sunil Gavaskar"
+                    "Which national team is nicknamed “The Proteas” or “The Springboks”?",
+                answer: "South Africa"
             },
             {
                 points: 500,
@@ -63,7 +63,7 @@ var data = [
             },
             {
                 points: 500,
-                question: "List of Countries Where India Shares Its Border",
+                question: "Number of Countries Where India Shares Its Border",
                 answer: "8"
             }
         ]
@@ -90,9 +90,8 @@ var data = [
             },
             {
                 points: 400,
-                question:
-                    "From which major U.S. city can a person drive south into Canada?",
-                answer: "Detroit"
+                question: "What's the only U.S. state whose name ends with three consecutive vowels?",
+                answer: "Hawaii"
             },
             {
                 points: 500,
@@ -102,7 +101,7 @@ var data = [
         ]
     },
     {
-        category: "US",
+        category: "WORLD",
         questions: [
             {
                 points: 100,
@@ -151,14 +150,14 @@ var data = [
             },
             {
                 points: 300,
-                question: "What's the only U.S. state whose name ends with three consecutive vowels?",
-                answer: "Hawaii"
+                question: "No matter how little or how much you use me, you change me every month. What am I?",
+                answer: "A Calendar."
             },
             {
                 points: 400,
                 question:
-                    "If you take away one letter, you're left with twelve. What is the word?",
-                answer: "Dozens"
+                    "If eleven plus two equals one, what does nine plus five equal?",
+                answer: "11 o'clock plus 2 hours = 1 o'clock /n 9 o'clock plus 5 hours = 2 o'clock"
             },
             {
                 points: 500,
@@ -167,6 +166,38 @@ var data = [
             }
         ]
     },
-    
-    
+    {
+        category: "BUSINESS",
+        questions: [
+            {
+                points: 100,
+                question:
+                    "Who was the founder and chairman of Amazon.com?",
+                answer: "Jeffrey P. Bezos"
+            },
+            {
+                points: 200,
+                question:
+                    "How old was Bill Gates when he became a billionaire??",
+                answer: "31"
+            },
+            {
+                points: 300,
+                question: "What was Lamborghini first known for?",
+                answer: "Farm Tractors."
+            },
+            {
+                points: 400,
+                question:
+                    "What major corporation uses the slogan 'Go Brown'?",
+                answer: "UPS"
+            },
+            {
+                points: 500,
+                question: "Who invented the lift/elevator in 1853?",
+                answer: "Otis"
+            }
+        ]
+    },
+
 ]
